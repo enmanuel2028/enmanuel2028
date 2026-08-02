@@ -14,9 +14,6 @@
 <a href="https://github.com/enmanuel2028">
   <img alt="GitHub" src="https://img.shields.io/badge/enmanuel2028-8B5CF6?style=for-the-badge&logo=github&logoColor=05070D&labelColor=0B1120">
 </a>
-<a href="https://wa.me/573143741554">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=05070D&labelColor=0B1120">
-</a>
 <img alt="Ubicación" src="https://img.shields.io/badge/Bucaramanga,%20Colombia-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=05070D&labelColor=0B1120">
 
 <br><br>
@@ -288,14 +285,17 @@ nothing invented · document the non-obvious.
 <a href="mailto:manosalvaaceros@gmail.com">
   <img alt="Escríbeme un correo" src="https://img.shields.io/badge/Escríbeme-manosalvaaceros@gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=05070D&labelColor=0B1120">
 </a>
-<a href="https://wa.me/573143741554">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Conversemos-22C55E?style=for-the-badge&logo=whatsapp&logoColor=05070D&labelColor=0B1120">
+<a href="https://github.com/enmanuel2028?tab=repositories">
+  <img alt="Repositorios" src="https://img.shields.io/badge/Mis%20repositorios-Ver%20trabajo-8B5CF6?style=for-the-badge&logo=github&logoColor=05070D&labelColor=0B1120">
 </a>
 
 <!--
   Cuando el portafolio esté desplegado, descomenta y pon el dominio final:
   <a href="https://TU-DOMINIO"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20en%20vivo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=05070D&labelColor=0B1120"></a>
   Lo mismo con LinkedIn cuando tengas la URL del perfil.
+
+  WhatsApp: fuera por ahora, a propósito. Si algún día lo quieres:
+  <a href="https://wa.me/573143741554"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Conversemos-22C55E?style=for-the-badge&logo=whatsapp&logoColor=05070D&labelColor=0B1120"></a>
 -->
 
 <br><br>

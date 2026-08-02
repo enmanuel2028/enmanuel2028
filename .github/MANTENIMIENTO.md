@@ -53,12 +53,14 @@ borrar ese bloque:
 
 ## Pendientes marcados en el README
 
-Hay un bloque comentado al final con los enlaces que aún no existen: **dominio del
-portafolio** y **LinkedIn**. Están comentados a propósito: un enlace sin configurar
-no se renderiza, para no dejar enlaces rotos en el perfil.
+Hay un bloque comentado al final de la sección "Hablemos" con lo que aún no se publica:
+**dominio del portafolio**, **LinkedIn** y **WhatsApp**. Están comentados a propósito: un
+enlace sin configurar no se renderiza, para no dejar enlaces rotos en el perfil.
 
 ## Datos personales expuestos
 
-El README publica el correo y el número de WhatsApp. Son los mismos que ya aparecen en
-`src/content/personal.ts` del portafolio. Si prefieres no exponer el teléfono en GitHub,
-borra la insignia de WhatsApp en las dos secciones (cabecera y "Hablemos").
+El único canal público del perfil es el **correo** (`manosalvaaceros@gmail.com`).
+
+El **WhatsApp está fuera a propósito**: un perfil de GitHub recibe mucha más exposición al
+spam que el portafolio. La insignia queda lista dentro del comentario de "Hablemos";
+descoméntala si en algún momento lo quieres visible.
