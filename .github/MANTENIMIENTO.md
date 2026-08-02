@@ -10,7 +10,6 @@ se muestra en la portada de <https://github.com/enmanuel2028>.
 | `README.md` | Lo que ve todo el mundo en el perfil. |
 | `assets/header-dark.svg` / `header-light.svg` | Banner animado propio (SVG + SMIL). Sin dependencias externas. |
 | `assets/divider.svg` | Separador con haz animado, reutilizado entre secciones. |
-| `.github/workflows/snake.yml` | Genera la animación de la serpiente cada 12 horas. |
 
 ## Tema claro y oscuro
 
@@ -27,15 +26,6 @@ edita también la otra: la paleta clara es la misma identidad con contraste inve
 
 Es la misma paleta del portafolio (`src/app/globals.css`), para que perfil y sitio
 se lean como una sola marca.
-
-## La animación de la serpiente
-
-El workflow publica `snake-dark.svg` y `snake-light.svg` en una rama llamada `output`.
-**Hasta que corra por primera vez, esa imagen aparece rota.** Después del primer push a
-`main` se ejecuta solo; también puedes lanzarlo a mano desde la pestaña *Actions*.
-
-Si el workflow falla con un error de permisos, entra en
-`Settings → Actions → General → Workflow permissions` y activa **Read and write permissions**.
 
 ## La tarjeta de estadísticas es nuestra
 

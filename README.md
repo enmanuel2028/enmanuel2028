@@ -215,15 +215,6 @@ desarrollado en equipo.
   <img width="95%" alt="Gráfico de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=enmanuel2028&bg_color=0B1120&color=F8FAFC&title_color=38BDF8&line=38BDF8&point=8B5CF6&area=true&area_color=1E3A5F&hide_border=true&custom_title=Actividad%20de%20contribuciones">
 </picture>
 
-<br><br>
-
-<!-- La animación se genera sola con .github/workflows/snake.yml y se publica en la rama `output`. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enmanuel2028/enmanuel2028/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enmanuel2028/enmanuel2028/output/snake-light.svg">
-  <img alt="Serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/enmanuel2028/enmanuel2028/output/snake-dark.svg" width="95%">
-</picture>
-
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>

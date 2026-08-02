@@ -12,6 +12,19 @@
 const USER = process.argv[2] ?? "enmanuel2028";
 const TOKEN = process.env.GITHUB_TOKEN;
 
+/**
+ * Repositorios que no cuentan para el reparto de lenguajes.
+ *
+ * GitHub mide bytes de archivo, no autoría: un repo con sus dependencias
+ * versionadas dentro se lleva el gráfico entero. `ParcialCivil` incluye un
+ * entorno de Python completo (73 MB de Python, 5 MB de C++, 2 MB de Cython)
+ * y por sí solo era el 98,7 % del total, dejando TypeScript en 1,1 %.
+ *
+ * Siguen contando en el número de repositorios públicos: existen. Lo que no
+ * hacen es hablar por el resto.
+ */
+const EXCLUDED_FROM_LANGUAGES = new Set(["ParcialCivil"]);
+
 if (!TOKEN) {
   console.error("Falta GITHUB_TOKEN.");
   process.exit(1);
@@ -29,6 +42,7 @@ const QUERY = `
       ) {
         totalCount
         nodes {
+          name
           stargazerCount
           languages(first: 12, orderBy: { field: SIZE, direction: DESC }) {
             edges { size node { name } }
@@ -72,9 +86,14 @@ const contrib = user.contributionsCollection;
 
 const stars = repos.reduce((total, repo) => total + repo.stargazerCount, 0);
 
-/** Bytes por lenguaje, sumados sobre todos los repos públicos propios. */
+/** Bytes por lenguaje, sumados sobre los repos públicos propios que cuentan. */
 const byLanguage = new Map();
+let excluded = 0;
 for (const repo of repos) {
+  if (EXCLUDED_FROM_LANGUAGES.has(repo.name)) {
+    excluded += 1;
+    continue;
+  }
   for (const edge of repo.languages.edges) {
     byLanguage.set(edge.node.name, (byLanguage.get(edge.node.name) ?? 0) + edge.size);
   }
@@ -137,8 +156,15 @@ const SANS = "'Segoe UI',Inter,Helvetica,Arial,sans-serif";
 const MONO = "'JetBrains Mono','SFMono-Regular',Consolas,monospace";
 
 const W = 900;
-const H = 388;
 const PAD = 34;
+
+const BARS_TOP = 226;
+const ROW_PITCH = 25;
+const BAR_HEIGHT = 11;
+
+const barsBottom = BARS_TOP + ROW_PITCH * languages.length;
+const footnote = excluded > 0 ? "No cuenta un repositorio con dependencias versionadas dentro." : "";
+const H = barsBottom + (footnote ? 40 : 22);
 
 /** Barra con el extremo de dato redondeado (4px) y la base cuadrada. */
 function barPath(x, y, width, height) {
@@ -173,12 +199,12 @@ function card(theme) {
   // texto, nunca solo en el color.
   const barX = 178;
   const barMax = W - PAD - barX - 58;
-  const rowPitch = 25;
-  const barHeight = 11;
+  const rowPitch = ROW_PITCH;
+  const barHeight = BAR_HEIGHT;
 
   const barMarkup = languages
     .map((lang, index) => {
-      const y = 226 + rowPitch * index;
+      const y = BARS_TOP + rowPitch * index;
       const width = Math.max(3, barMax * lang.share);
       const opacity = (1 - index * 0.115).toFixed(3);
       return `
@@ -201,7 +227,12 @@ ${tileMarkup}
 
   <line x1="${PAD}" y1="184" x2="${W - PAD}" y2="184" stroke="${t.border}" stroke-width="1" />
   <text x="${PAD}" y="209" font-family="${SANS}" font-size="13" font-weight="600" fill="${t.muted}">Lenguajes por volumen de código en repositorios públicos</text>
-${barMarkup}
+${barMarkup}${
+    footnote
+      ? `
+  <text x="${PAD}" y="${barsBottom + 20}" font-family="${SANS}" font-size="11.5" fill="${t.faint}">${escape(footnote)}</text>`
+      : ""
+  }
 </svg>
 `;
 }

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 388" width="900" height="388" role="img" aria-label="Estadisticas de GitHub de enmanuel2028">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 416" width="900" height="416" role="img" aria-label="Estadisticas de GitHub de enmanuel2028">
   <title>Actividad de enmanuel2028 en GitHub</title>
-  <rect width="900" height="388" rx="14" fill="#ffffff" />
-  <rect x="0.5" y="0.5" width="899" height="387" rx="14" fill="none" stroke="#e2e8f0" />
+  <rect width="900" height="416" rx="14" fill="#ffffff" />
+  <rect x="0.5" y="0.5" width="899" height="415" rx="14" fill="none" stroke="#e2e8f0" />
 
   <text x="34" y="60" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#0f172a">Actividad en GitHub</text>
   <text x="866" y="60" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">Actualizado el 2 de agosto de 2026</text>
@@ -19,28 +19,29 @@
   <line x1="34" y1="184" x2="866" y2="184" stroke="#e2e8f0" stroke-width="1" />
   <text x="34" y="209" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#475569">Lenguajes por volumen de código en repositorios públicos</text>
 
-    <text x="164" y="236" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Python</text>
+    <text x="164" y="236" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">TypeScript</text>
     <rect x="178" y="226" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 226 H737.7550363657767 a4 4 0 0 1 4 4 V233 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="1.000" />
-    <text x="751.8" y="236" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">89,5 %</text>
-    <text x="164" y="261" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">C++</text>
+    <path d="M178 226 H700.9151388827457 a4 4 0 0 1 4 4 V233 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="1.000" />
+    <text x="714.9" y="236" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">83,6 %</text>
+    <text x="164" y="261" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">CSS</text>
     <rect x="178" y="251" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 251 H211.53098118537528 a4 4 0 0 1 4 4 V258 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.885" />
-    <text x="225.5" y="261" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">6,0 %</text>
-    <text x="164" y="286" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Cython</text>
+    <path d="M178 251 H231.04199655004643 a4 4 0 0 1 4 4 V258 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.885" />
+    <text x="245.0" y="261" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">9,1 %</text>
+    <text x="164" y="286" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Java</text>
     <rect x="178" y="276" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 276 H189.25183811102306 a4 4 0 0 1 4 4 V283 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.770" />
-    <text x="203.3" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">2,4 %</text>
-    <text x="164" y="311" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">TypeScript</text>
+    <path d="M178 276 H206.79189150338362 a4 4 0 0 1 4 4 V283 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.770" />
+    <text x="220.8" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">5,2 %</text>
+    <text x="164" y="311" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">HTML</text>
     <rect x="178" y="301" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 301 H181.3987481127466 a3.3987481127465973 3.3987481127465973 0 0 1 3.3987481127465973 3.3987481127465973 V308.6012518872534 a3.3987481127465973 3.3987481127465973 0 0 1 -3.3987481127465973 3.3987481127465973 H178 Z" fill="#0284c7" opacity="0.655" />
-    <text x="194.8" y="311" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">1,1 %</text>
-    <text x="164" y="336" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">C</text>
+    <path d="M178 301 H181.29532763501263 a3.2953276350126055 3.2953276350126055 0 0 1 3.2953276350126055 3.2953276350126055 V308.7046723649874 a3.2953276350126055 3.2953276350126055 0 0 1 -3.2953276350126055 3.2953276350126055 H178 Z" fill="#0284c7" opacity="0.655" />
+    <text x="194.6" y="311" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">1,0 %</text>
+    <text x="164" y="336" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">JavaScript</text>
     <rect x="178" y="326" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 326 H180.1391886331656 a2.139188633165583 2.139188633165583 0 0 1 2.139188633165583 2.139188633165583 V334.8608113668344 a2.139188633165583 2.139188633165583 0 0 1 -2.139188633165583 2.139188633165583 H178 Z" fill="#0284c7" opacity="0.540" />
-    <text x="192.3" y="336" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">0,7 %</text>
-    <text x="164" y="361" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">CSS</text>
+    <path d="M178 326 H180.97458976513778 a2.9745897651377766 2.9745897651377766 0 0 1 2.9745897651377766 2.9745897651377766 V334.02541023486225 a2.9745897651377766 2.9745897651377766 0 0 1 -2.9745897651377766 2.9745897651377766 H178 Z" fill="#0284c7" opacity="0.540" />
+    <text x="193.9" y="336" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">0,9 %</text>
+    <text x="164" y="361" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Dockerfile</text>
     <rect x="178" y="351" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
     <path d="M178 351 H179.5 a1.5 1.5 0 0 1 1.5 1.5 V360.5 a1.5 1.5 0 0 1 -1.5 1.5 H178 Z" fill="#0284c7" opacity="0.425" />
     <text x="191.0" y="361" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">0,1 %</text>
+  <text x="34" y="396" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">No cuenta un repositorio con dependencias versionadas dentro.</text>
 </svg>
