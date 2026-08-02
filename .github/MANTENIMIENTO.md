@@ -80,7 +80,7 @@ bloque del README:
 ## Pendientes marcados en el README
 
 Hay un bloque comentado al final de la sección "Hablemos" con lo que aún no se publica:
-**dominio del portafolio**, **LinkedIn** y **WhatsApp**. Están comentados a propósito: un
+**LinkedIn** y **WhatsApp**. Están comentados a propósito: un
 enlace sin configurar no se renderiza, para no dejar enlaces rotos en el perfil.
 
 ## Datos personales expuestos

@@ -124,7 +124,7 @@ desarrollado en equipo.
 > El proyecto es confidencial, así que no hay enlaces ni detalles de implementación.
 
 <div align="center">
-  <a href="https://github.com/enmanuel2028/portafolio-santos-enmanuel">
+  <a href="https://portafolio-santos-enmanuel.manosalvaaceros.workers.dev/es">
     <img alt="Cada proyecto, en detalle, en el portafolio" src="https://img.shields.io/badge/Cada%20proyecto%20en%20detalle-Portafolio-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC&labelColor=0B1120">
   </a>
 </div>
@@ -283,14 +283,12 @@ nothing invented · document the non-obvious.
 <a href="mailto:manosalvaaceros@gmail.com">
   <img alt="Escríbeme un correo" src="https://img.shields.io/badge/Escríbeme-manosalvaaceros@gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=0B1120">
 </a>
-<a href="https://github.com/enmanuel2028/portafolio-santos-enmanuel">
+<a href="https://portafolio-santos-enmanuel.manosalvaaceros.workers.dev/es">
   <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Next.js%20·%20R3F%20·%20GSAP-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC&labelColor=0B1120">
 </a>
 
 <!--
-  Cuando el portafolio esté desplegado, descomenta y pon el dominio final:
-  <a href="https://TU-DOMINIO"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20en%20vivo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0B1120"></a>
-  Lo mismo con LinkedIn cuando tengas la URL del perfil.
+  LinkedIn queda pendiente hasta tener la URL del perfil.
 
   WhatsApp: fuera por ahora, a propósito. Si algún día lo quieres:
   <a href="https://wa.me/573143741554"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Conversemos-22C55E?style=for-the-badge&logo=whatsapp&logoColor=F8FAFC&labelColor=0B1120"></a>
