@@ -37,16 +37,43 @@ El workflow publica `snake-dark.svg` y `snake-light.svg` en una rama llamada `ou
 Si el workflow falla con un error de permisos, entra en
 `Settings → Actions → General → Workflow permissions` y activa **Read and write permissions**.
 
-## Servicios externos usados
+## La tarjeta de estadísticas es nuestra
 
-El banner y los separadores son propios. Las tarjetas de estadísticas sí dependen de
-servicios de terceros gratuitos; si alguno cae, la imagen deja de cargar y basta con
-borrar ese bloque:
+`scripts/generate-stats.mjs` consulta la API GraphQL de GitHub y dibuja
+`assets/stats-dark.svg` y `stats-light.svg`. El workflow `stats.yml` lo ejecuta cada
+12 horas y hace commit solo si el resultado cambió.
 
-- `github-readme-stats.vercel.app` — estadísticas y lenguajes
+Existe por una razón concreta: el 2 de agosto de 2026, al montar este perfil,
+`github-readme-stats.vercel.app` devolvía **503** y `github-profile-trophy.vercel.app`
+**402** (cuota agotada). Las dos imágenes salían rotas en el README. Generarlas aquí
+las vuelve deterministas y con la paleta exacta.
+
+Decisiones de la tarjeta, por si la editas:
+
+- Los cuatro números de arriba son **tarjetas de estadística**, no un gráfico: para un
+  número de titular, una barra sola no aporta nada.
+- Los lenguajes van en **barras horizontales de un solo tono**. La identidad la lleva
+  la etiqueta de texto, no el color, así que no depende de distinguir matices.
+- **Las estrellas solo aparecen si hay alguna.** Con cero, el hueco lo ocupa el número
+  de pull requests.
+- Mide **bytes de código**, que es lo que dice el título. Un repositorio con
+  dependencias versionadas dentro infla su lenguaje; si algún día distorsiona
+  demasiado, hay que excluir ese repo en el script.
+
+Para probarlo en local:
+
+```bash
+GITHUB_TOKEN=$(gh auth token) node scripts/generate-stats.mjs
+```
+
+## Servicios externos que quedan
+
+El banner, los separadores y la tarjeta de estadísticas son propios. Lo demás depende
+de terceros gratuitos; si alguno cae, la imagen deja de cargar y basta con borrar ese
+bloque del README:
+
 - `streak-stats.demolab.com` — racha de contribuciones
 - `github-readme-activity-graph.vercel.app` — gráfico de actividad
-- `github-profile-trophy.vercel.app` — trofeos
 - `readme-typing-svg.demolab.com` — titulares que se escriben solos
 - `komarev.com/ghpvc` — contador de visitas
 - `img.shields.io` — insignias

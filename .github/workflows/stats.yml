@@ -1,0 +1,44 @@
+name: Regenerar tarjetas de estadísticas
+
+on:
+  schedule:
+    # Cada 12 horas
+    - cron: "20 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate-stats.mjs"
+      - ".github/workflows/stats.yml"
+
+# Evita que dos ejecuciones peleen por el mismo commit.
+concurrency:
+  group: stats
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar los SVG
+        run: node scripts/generate-stats.mjs "${{ github.repository_owner }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar si cambiaron
+        run: |
+          if [ -z "$(git status --porcelain assets)" ]; then
+            echo "Sin cambios en las tarjetas."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-dark.svg assets/stats-light.svg
+          git commit -m "Actualizar tarjetas de estadisticas"
+          git push

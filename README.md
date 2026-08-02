@@ -9,12 +9,12 @@
 <br>
 
 <a href="mailto:manosalvaaceros@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/manosalvaaceros@gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=05070D&labelColor=0B1120">
+  <img alt="Email" src="https://img.shields.io/badge/manosalvaaceros@gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=0B1120">
 </a>
 <a href="https://github.com/enmanuel2028">
-  <img alt="GitHub" src="https://img.shields.io/badge/enmanuel2028-8B5CF6?style=for-the-badge&logo=github&logoColor=05070D&labelColor=0B1120">
+  <img alt="GitHub" src="https://img.shields.io/badge/enmanuel2028-8B5CF6?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0B1120">
 </a>
-<img alt="Ubicación" src="https://img.shields.io/badge/Bucaramanga,%20Colombia-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=05070D&labelColor=0B1120">
+<img alt="Ubicación" src="https://img.shields.io/badge/Bucaramanga,%20Colombia-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=F8FAFC&labelColor=0B1120">
 
 <br><br>
 
@@ -123,6 +123,12 @@ desarrollado en equipo.
 > evaluación de conversaciones y métricas por rol (vendedor, manager, administrador).
 > El proyecto es confidencial, así que no hay enlaces ni detalles de implementación.
 
+<div align="center">
+  <a href="https://github.com/enmanuel2028/portafolio-santos-enmanuel">
+    <img alt="Cada proyecto, en detalle, en el portafolio" src="https://img.shields.io/badge/Cada%20proyecto%20en%20detalle-Portafolio-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC&labelColor=0B1120">
+  </a>
+</div>
+
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
 
 ## Stack
@@ -131,49 +137,49 @@ desarrollado en equipo.
   <tr>
     <td valign="middle"><b>💻&nbsp;Desarrollo</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/TypeScript-38BDF8?style=flat-square&logo=typescript&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square&logo=javascript&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/React-38BDF8?style=flat-square&logo=react&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Next.js-38BDF8?style=flat-square&logo=nextdotjs&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Streamlit-38BDF8?style=flat-square&logo=streamlit&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/APIs%20REST-38BDF8?style=flat-square&logo=fastapi&logoColor=05070D&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/TypeScript-38BDF8?style=flat-square&logo=typescript&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square&logo=javascript&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/React-38BDF8?style=flat-square&logo=react&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Next.js-38BDF8?style=flat-square&logo=nextdotjs&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Streamlit-38BDF8?style=flat-square&logo=streamlit&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/APIs%20REST-38BDF8?style=flat-square&logo=fastapi&logoColor=F8FAFC&labelColor=0B1120">
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>🧠&nbsp;Inteligencia&nbsp;artificial</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square&logo=pytorch&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Visión%20por%20computador-8B5CF6?style=flat-square&logo=opencv&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Mask%20R--CNN-8B5CF6?style=flat-square&logo=tensorflow&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/MobileNet-8B5CF6?style=flat-square&logo=keras&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Gemini-8B5CF6?style=flat-square&logo=googlegemini&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Ollama-8B5CF6?style=flat-square&logo=ollama&logoColor=05070D&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square&logo=pytorch&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Visión%20por%20computador-8B5CF6?style=flat-square&logo=opencv&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Mask%20R--CNN-8B5CF6?style=flat-square&logo=tensorflow&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/MobileNet-8B5CF6?style=flat-square&logo=keras&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Gemini-8B5CF6?style=flat-square&logo=googlegemini&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Ollama-8B5CF6?style=flat-square&logo=ollama&logoColor=F8FAFC&labelColor=0B1120">
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>📊&nbsp;Datos</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square&logo=postgresql&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Supabase-3B82F6?style=flat-square&logo=supabase&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square&logo=databricks&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Pipelines-3B82F6?style=flat-square&logo=apacheairflow&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Dashboards-3B82F6?style=flat-square&logo=grafana&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Analítica-3B82F6?style=flat-square&logo=plotly&logoColor=05070D&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/PostgreSQL-3B82F6?style=flat-square&logo=postgresql&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Supabase-3B82F6?style=flat-square&logo=supabase&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square&logo=databricks&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Pipelines-3B82F6?style=flat-square&logo=apacheairflow&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Dashboards-3B82F6?style=flat-square&logo=grafana&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Analítica-3B82F6?style=flat-square&logo=plotly&logoColor=F8FAFC&labelColor=0B1120">
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>⚙️&nbsp;Infraestructura</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-22C55E?style=flat-square&logo=git&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/GitHub-22C55E?style=flat-square&logo=github&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Cloudflare-22C55E?style=flat-square&logo=cloudflare&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Render-22C55E?style=flat-square&logo=render&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Kaggle-22C55E?style=flat-square&logo=kaggle&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/Linux-22C55E?style=flat-square&logo=linux&logoColor=05070D&labelColor=0B1120">
-      <img src="https://img.shields.io/badge/VS%20Code-22C55E?style=flat-square&logo=visualstudiocode&logoColor=05070D&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Git-22C55E?style=flat-square&logo=git&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/GitHub-22C55E?style=flat-square&logo=github&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Cloudflare-22C55E?style=flat-square&logo=cloudflare&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Render-22C55E?style=flat-square&logo=render&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Kaggle-22C55E?style=flat-square&logo=kaggle&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/Linux-22C55E?style=flat-square&logo=linux&logoColor=F8FAFC&labelColor=0B1120">
+      <img src="https://img.shields.io/badge/VS%20Code-22C55E?style=flat-square&logo=visualstudiocode&logoColor=F8FAFC&labelColor=0B1120">
     </td>
   </tr>
 </table>
@@ -186,18 +192,14 @@ desarrollado en equipo.
 
 <div align="center">
 
+<!-- Tarjeta generada en este mismo repo por .github/workflows/stats.yml. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enmanuel2028&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8&icon_color=8B5CF6&border_color=1E293B&border_radius=12">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enmanuel2028&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&bg_color=FFFFFF&title_color=0284C7&text_color=475569&icon_color=7C3AED&border_color=E2E8F0&border_radius=12">
-  <img height="170" alt="Estadísticas de GitHub de enmanuel2028" src="https://github-readme-stats.vercel.app/api?username=enmanuel2028&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8&icon_color=8B5CF6&border_color=1E293B&border_radius=12">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuel2028&layout=compact&langs_count=8&hide_title=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&border_radius=12">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuel2028&layout=compact&langs_count=8&hide_title=true&bg_color=FFFFFF&title_color=0284C7&text_color=475569&border_color=E2E8F0&border_radius=12">
-  <img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuel2028&layout=compact&langs_count=8&hide_title=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&border_radius=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enmanuel2028/enmanuel2028/main/assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enmanuel2028/enmanuel2028/main/assets/stats-light.svg">
+  <img width="95%" alt="Actividad en GitHub: repositorios, contribuciones, commits y lenguajes por volumen de código" src="./assets/stats-dark.svg">
 </picture>
 
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=enmanuel2028&background=0B1120&border=1E293B&stroke=1E293B&ring=38BDF8&fire=8B5CF6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=12">
@@ -212,10 +214,6 @@ desarrollado en equipo.
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=enmanuel2028&bg_color=FFFFFF&color=0F172A&title_color=0284C7&line=0284C7&point=7C3AED&area=true&area_color=BAE6FD&hide_border=true&custom_title=Actividad%20de%20contribuciones">
   <img width="95%" alt="Gráfico de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=enmanuel2028&bg_color=0B1120&color=F8FAFC&title_color=38BDF8&line=38BDF8&point=8B5CF6&area=true&area_color=1E3A5F&hide_border=true&custom_title=Actividad%20de%20contribuciones">
 </picture>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=enmanuel2028&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trofeos de GitHub" width="95%">
 
 <br><br>
 
@@ -283,19 +281,19 @@ nothing invented · document the non-obvious.
 ### Hablemos
 
 <a href="mailto:manosalvaaceros@gmail.com">
-  <img alt="Escríbeme un correo" src="https://img.shields.io/badge/Escríbeme-manosalvaaceros@gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=05070D&labelColor=0B1120">
+  <img alt="Escríbeme un correo" src="https://img.shields.io/badge/Escríbeme-manosalvaaceros@gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=0B1120">
 </a>
-<a href="https://github.com/enmanuel2028?tab=repositories">
-  <img alt="Repositorios" src="https://img.shields.io/badge/Mis%20repositorios-Ver%20trabajo-8B5CF6?style=for-the-badge&logo=github&logoColor=05070D&labelColor=0B1120">
+<a href="https://github.com/enmanuel2028/portafolio-santos-enmanuel">
+  <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Next.js%20·%20R3F%20·%20GSAP-8B5CF6?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC&labelColor=0B1120">
 </a>
 
 <!--
   Cuando el portafolio esté desplegado, descomenta y pon el dominio final:
-  <a href="https://TU-DOMINIO"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20en%20vivo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=05070D&labelColor=0B1120"></a>
+  <a href="https://TU-DOMINIO"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20en%20vivo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0B1120"></a>
   Lo mismo con LinkedIn cuando tengas la URL del perfil.
 
   WhatsApp: fuera por ahora, a propósito. Si algún día lo quieres:
-  <a href="https://wa.me/573143741554"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Conversemos-22C55E?style=for-the-badge&logo=whatsapp&logoColor=05070D&labelColor=0B1120"></a>
+  <a href="https://wa.me/573143741554"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Conversemos-22C55E?style=for-the-badge&logo=whatsapp&logoColor=F8FAFC&labelColor=0B1120"></a>
 -->
 
 <br><br>
