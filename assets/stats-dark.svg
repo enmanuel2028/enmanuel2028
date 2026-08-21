@@ -7,11 +7,11 @@
   <text x="866" y="60" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">Actualizado el 20 de agosto de 2026</text>
   <rect x="34" y="76" width="46" height="2.5" rx="1.25" fill="#38bdf8" />
 
-    <text x="34.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f8fafc">13</text>
+    <text x="34.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f8fafc">14</text>
     <text x="34.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">Repositorios públicos</text>
-    <text x="242.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f8fafc">85</text>
+    <text x="242.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f8fafc">87</text>
     <text x="242.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">Contribuciones · 12 meses</text>
-    <text x="450.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f8fafc">57</text>
+    <text x="450.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f8fafc">58</text>
     <text x="450.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">Commits · 12 meses</text>
     <text x="658.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#f8fafc">24</text>
     <text x="658.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">Pull requests · 12 meses</text>
@@ -21,24 +21,24 @@
 
     <text x="164" y="236" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">TypeScript</text>
     <rect x="178" y="226" width="630" height="11" rx="4" fill="#16203a" opacity="0.55" />
-    <path d="M178 226 H700.3719033977937 a4 4 0 0 1 4 4 V233 a4 4 0 0 1 -4 4 H178 Z" fill="#38bdf8" opacity="1.000" />
-    <text x="714.4" y="236" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">83,6 %</text>
+    <path d="M178 226 H694.4973634937871 a4 4 0 0 1 4 4 V233 a4 4 0 0 1 -4 4 H178 Z" fill="#38bdf8" opacity="1.000" />
+    <text x="708.5" y="236" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">82,6 %</text>
     <text x="164" y="261" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">CSS</text>
     <rect x="178" y="251" width="630" height="11" rx="4" fill="#16203a" opacity="0.55" />
-    <path d="M178 251 H230.98318776971 a4 4 0 0 1 4 4 V258 a4 4 0 0 1 -4 4 H178 Z" fill="#38bdf8" opacity="0.885" />
-    <text x="245.0" y="261" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">9,0 %</text>
+    <path d="M178 251 H230.3472305534342 a4 4 0 0 1 4 4 V258 a4 4 0 0 1 -4 4 H178 Z" fill="#38bdf8" opacity="0.885" />
+    <text x="244.3" y="261" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">8,9 %</text>
     <text x="164" y="286" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">Java</text>
     <rect x="178" y="276" width="630" height="11" rx="4" fill="#16203a" opacity="0.55" />
-    <path d="M178 276 H206.75808393596182 a4 4 0 0 1 4 4 V283 a4 4 0 0 1 -4 4 H178 Z" fill="#38bdf8" opacity="0.770" />
-    <text x="220.8" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">5,2 %</text>
-    <text x="164" y="311" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">JavaScript</text>
+    <path d="M178 276 H206.3924894389562 a4 4 0 0 1 4 4 V283 a4 4 0 0 1 -4 4 H178 Z" fill="#38bdf8" opacity="0.770" />
+    <text x="220.4" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">5,1 %</text>
+    <text x="164" y="311" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">HTML</text>
     <rect x="178" y="301" width="630" height="11" rx="4" fill="#16203a" opacity="0.55" />
-    <path d="M178 301 H181.2962796588951 a3.296279658895091 3.296279658895091 0 0 1 3.296279658895091 3.296279658895091 V308.7037203411049 a3.296279658895091 3.296279658895091 0 0 1 -3.296279658895091 3.296279658895091 H178 Z" fill="#38bdf8" opacity="0.655" />
-    <text x="194.6" y="311" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">1,0 %</text>
-    <text x="164" y="336" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">HTML</text>
+    <path d="M178 301 H187.54145636361486 a4 4 0 0 1 4 4 V308 a4 4 0 0 1 -4 4 H178 Z" fill="#38bdf8" opacity="0.655" />
+    <text x="201.5" y="311" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">2,1 %</text>
+    <text x="164" y="336" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">JavaScript</text>
     <rect x="178" y="326" width="630" height="11" rx="4" fill="#16203a" opacity="0.55" />
-    <path d="M178 326 H181.29193023992224 a3.291930239922235 3.291930239922235 0 0 1 3.291930239922235 3.291930239922235 V333.70806976007776 a3.291930239922235 3.291930239922235 0 0 1 -3.291930239922235 3.291930239922235 H178 Z" fill="#38bdf8" opacity="0.540" />
-    <text x="194.6" y="336" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">1,0 %</text>
+    <path d="M178 326 H181.25949174094973 a3.259491740949725 3.259491740949725 0 0 1 3.259491740949725 3.259491740949725 V333.7405082590503 a3.259491740949725 3.259491740949725 0 0 1 -3.259491740949725 3.259491740949725 H178 Z" fill="#38bdf8" opacity="0.540" />
+    <text x="194.5" y="336" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#64748b">1,0 %</text>
     <text x="164" y="361" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#94a3b8">Dockerfile</text>
     <rect x="178" y="351" width="630" height="11" rx="4" fill="#16203a" opacity="0.55" />
     <path d="M178 351 H179.5 a1.5 1.5 0 0 1 1.5 1.5 V360.5 a1.5 1.5 0 0 1 -1.5 1.5 H178 Z" fill="#38bdf8" opacity="0.425" />
