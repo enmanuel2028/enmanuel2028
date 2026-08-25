@@ -4,7 +4,7 @@
   <rect x="0.5" y="0.5" width="899" height="415" rx="14" fill="none" stroke="#e2e8f0" />
 
   <text x="34" y="60" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#0f172a">Actividad en GitHub</text>
-  <text x="866" y="60" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">Actualizado el 24 de agosto de 2026</text>
+  <text x="866" y="60" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">Actualizado el 25 de agosto de 2026</text>
   <rect x="34" y="76" width="46" height="2.5" rx="1.25" fill="#0284c7" />
 
     <text x="34.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">14</text>
@@ -21,23 +21,23 @@
 
     <text x="164" y="236" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">TypeScript</text>
     <rect x="178" y="226" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 226 H694.4973634937871 a4 4 0 0 1 4 4 V233 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="1.000" />
-    <text x="708.5" y="236" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">82,6 %</text>
+    <path d="M178 226 H694.3117092278925 a4 4 0 0 1 4 4 V233 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="1.000" />
+    <text x="708.3" y="236" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">82,6 %</text>
     <text x="164" y="261" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">CSS</text>
     <rect x="178" y="251" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 251 H230.3472305534342 a4 4 0 0 1 4 4 V258 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.885" />
+    <path d="M178 251 H230.3271322696439 a4 4 0 0 1 4 4 V258 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.885" />
     <text x="244.3" y="261" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">8,9 %</text>
     <text x="164" y="286" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Java</text>
     <rect x="178" y="276" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 276 H206.3924894389562 a4 4 0 0 1 4 4 V283 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.770" />
+    <path d="M178 276 H206.38093548255011 a4 4 0 0 1 4 4 V283 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.770" />
     <text x="220.4" y="286" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">5,1 %</text>
     <text x="164" y="311" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">HTML</text>
     <rect x="178" y="301" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 301 H187.54145636361486 a4 4 0 0 1 4 4 V308 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.655" />
-    <text x="201.5" y="311" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">2,1 %</text>
+    <path d="M178 301 H187.76133866542918 a4 4 0 0 1 4 4 V308 a4 4 0 0 1 -4 4 H178 Z" fill="#0284c7" opacity="0.655" />
+    <text x="201.8" y="311" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">2,2 %</text>
     <text x="164" y="336" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">JavaScript</text>
     <rect x="178" y="326" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
-    <path d="M178 326 H181.25949174094973 a3.259491740949725 3.259491740949725 0 0 1 3.259491740949725 3.259491740949725 V333.7405082590503 a3.259491740949725 3.259491740949725 0 0 1 -3.259491740949725 3.259491740949725 H178 Z" fill="#0284c7" opacity="0.540" />
+    <path d="M178 326 H181.25832912498123 a3.258329124981233 3.258329124981233 0 0 1 3.258329124981233 3.258329124981233 V333.74167087501877 a3.258329124981233 3.258329124981233 0 0 1 -3.258329124981233 3.258329124981233 H178 Z" fill="#0284c7" opacity="0.540" />
     <text x="194.5" y="336" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" fill="#94a3b8">1,0 %</text>
     <text x="164" y="361" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Dockerfile</text>
     <rect x="178" y="351" width="630" height="11" rx="4" fill="#e2e8f0" opacity="0.55" />
