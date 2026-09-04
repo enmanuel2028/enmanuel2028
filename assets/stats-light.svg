@@ -9,11 +9,11 @@
 
     <text x="34.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">14</text>
     <text x="34.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Repositorios públicos</text>
-    <text x="242.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">88</text>
+    <text x="242.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">92</text>
     <text x="242.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Contribuciones · 12 meses</text>
-    <text x="450.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">58</text>
+    <text x="450.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">60</text>
     <text x="450.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Commits · 12 meses</text>
-    <text x="658.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">25</text>
+    <text x="658.0" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" fill="#0f172a">27</text>
     <text x="658.0" y="155" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" fill="#475569">Pull requests · 12 meses</text>
 
   <line x1="34" y1="184" x2="866" y2="184" stroke="#e2e8f0" stroke-width="1" />
